@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <disruptor.version>3.3.8</disruptor.version>
+        <disruptor.version>3.4.2</disruptor.version>
     </properties>
 
     <dependencies>

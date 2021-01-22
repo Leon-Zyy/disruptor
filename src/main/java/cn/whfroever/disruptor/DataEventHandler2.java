@@ -3,6 +3,7 @@ package cn.whfroever.disruptor;
 import com.lmax.disruptor.EventHandler;
 
 /**
+ * 消费者事件2
  * @author wuhf
  * @Date 2018/8/14 16:21
  **/
